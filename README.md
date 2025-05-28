@@ -27,9 +27,5 @@ Single table: `raw_transactions`
 | CustomerID | Recency | Frequency | Monetary | R_Score | F_Score | M_Score | RFM_Score |
 |------------|---------|-----------|----------|---------|---------|---------|-----------|
 
-## 📈 Next Steps
-- Add customer segment labels (VIP, At-Risk)
-- Visualize with Power BI or Streamlit
 
-## 💼 Resume Highlight (STAR)
-> Used advanced SQL (CTEs, window functions) to build an RFM-based customer segmentation model, enabling targeted marketing and customer retention strategy.
+
